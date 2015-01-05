@@ -1,2 +1,2 @@
-Danglish-Math
+Danglish Math
 =============
